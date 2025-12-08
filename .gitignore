@@ -1,0 +1,14 @@
+/.venv
+/X_bin.csv
+/X_class.csv
+/X_reg.csv
+/car_train.csv
+/catboost_info
+/num_features_correlation.csv
+/num_features_description.csv
+/project.ipynb
+/rides_info.csv
+/y_bin.csv
+/y_class.csv
+/y_reg.csv
+/Задачи и литература Алгоритмы МО 2025.pdf
